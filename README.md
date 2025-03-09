@@ -10,4 +10,7 @@
 
 ### Задачи 
 :round_pushpin: [Вычисление факториала](5.md)
+
 :round_pushpin: [Найти индексы в массиве от заданной суммы](6.md) - [Repl](https://jsfiddle.net/ingavish/7bg9drvc/15/)
+
+:round_pushpin: [Longest Substring Without Repeating Characters](7.md)

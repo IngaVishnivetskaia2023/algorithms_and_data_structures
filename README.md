@@ -16,3 +16,5 @@
 :round_pushpin: [Найти индексы в массиве от заданной суммы](6.md) - [Repl](https://jsfiddle.net/ingavish/7bg9drvc/15/)
 
 :round_pushpin: [Longest Substring Without Repeating Characters](7.md)
+
+:round_pushpin: [Генераторы: оптимальное применение, примеры задач](9.md)

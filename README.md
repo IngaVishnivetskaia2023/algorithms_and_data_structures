@@ -18,3 +18,5 @@
 :round_pushpin: [Longest Substring Without Repeating Characters](7.md)
 
 :round_pushpin: [Генераторы: оптимальное применение, примеры задач](9.md)
+
+:round_pushpin: [Задача на асинхронность: time limited function](10.md)

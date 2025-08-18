@@ -16,7 +16,7 @@
 ### [Очередь](4.md)
 
 ### [Связный список](8.md)
-#### [Leedcode: Linked lists, add two numbers in reversed order](12.md)
+#### :round_pushpin: [Leedcode: Linked lists, add two numbers in reversed order](12.md)
 
 ### Задачи 
 :round_pushpin: [Вычисление факториала](5.md)

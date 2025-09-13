@@ -33,4 +33,5 @@
 
 ## Data structures explained
 ### [Dynamic Programming](2-1.md)
+### [Recursive Algorithms for Speed](2-2.md)
 

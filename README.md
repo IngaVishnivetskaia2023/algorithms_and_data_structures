@@ -30,3 +30,7 @@
 :round_pushpin: [Генераторы: оптимальное применение, примеры задач](9.md)
 
 :round_pushpin: [Задача на асинхронность: time limited function](10.md)
+
+## Data structures explained
+### [Dynamic Programming](2-1.md)
+

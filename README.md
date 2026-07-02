@@ -21,6 +21,8 @@
 #### :round_pushpin: [Leedcode: Linked lists, add two numbers in reversed order](12.md)
 
 ### Задачи 
+:round_pushpin: [LEETCODE: Минимальная длина подмассива с заданной суммой](3-1.md)
+
 :round_pushpin: [Вычисление факториала](5.md)
 
 :round_pushpin: [Найти индексы в массиве от заданной суммы](6.md) - [Repl](https://jsfiddle.net/ingavish/7bg9drvc/15/)
